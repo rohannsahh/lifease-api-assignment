@@ -93,10 +93,11 @@ To set up the project locally, follow these steps:
      "bowlerName": "Bowler1",
     "isNoBall": false
    }
+   <br>
  Response:
- 201: Ball data added successfully, ball data json
- 400: Validation errors.
- 500: Server error.
+ 201: Ball data added successfully, ball data json  
+ 400: Validation errors.  
+ 500: Server error.  
 
 2. **Edit Ball Data** 
  Endpoint: /api/edit
@@ -104,13 +105,13 @@ To set up the project locally, follow these steps:
  Description: Edits an existing ball entry.
  Request Body
     ```bash
-    {
+   {
     "ballId": "string",
-   "runsScored": 6,
-   "strikerName": "Player1",
+    "runsScored": 6,
+    "strikerName": "Player1",
     "nonStrikerName": "Player2",
-   "bowlerName": "Bowler1",
-   "isNoBall": false
+    "bowlerName": "Bowler1",
+    "isNoBall": false
    }
 
   
