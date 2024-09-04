@@ -8,7 +8,11 @@ This project covers solutions of creating api endpoints for cricket match data. 
         
       postman collection: https://www.postman.com/dark-shuttle-316146/workspace/api-test/collection/29159995-981dee73-0a0e-48ba-995f-552e28346d92?action=share&creator=29159995
 
+      video demonstration: https://www.loom.com/share/afddd12de8184b50862a6087aaf4b242?sid=7527d296-7d89-443c-a7b9-fec578e4a760
 
+
+
+      
 ## Table of Contents
 
 - [Technology Stack](#technology-stack)
