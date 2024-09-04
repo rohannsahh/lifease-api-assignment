@@ -202,5 +202,5 @@ Deletion: The ball is deleted from the database.
   
 **Deleting a Match:**     
 
-Match Lookup: The match to be deleted is fetched.  
-Cascade Deletion: The match and all associated ball data are deleted.  
+* Match Lookup: The match to be deleted is fetched.  
+* Cascade Deletion: The match and all associated ball data are deleted.  
