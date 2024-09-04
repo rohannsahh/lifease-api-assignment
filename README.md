@@ -93,6 +93,8 @@ To set up the project locally, follow these steps:
      "bowlerName": "Bowler1",
     "isNoBall": false
    }
+
+
   Response:  
    201: Ball data added successfully, ball data json    
    400: Validation errors.    
