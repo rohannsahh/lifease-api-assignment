@@ -25,8 +25,8 @@ To set up the project locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/rohannsahh/lifease-api-assignment.git
+   cd lifease-api-assignment
 
 2. **Install Dependencies:**
     ```bash
@@ -79,7 +79,7 @@ To set up the project locally, follow these steps:
     economyRate
 
 ## API Endpoints
-1. **Add Ball Data**    
+1. **Add Ball Data**      
   Endpoint: /api/add
   Method: POST
   Description: Adds a ball entry to a specific match.
