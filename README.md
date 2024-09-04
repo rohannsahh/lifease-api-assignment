@@ -2,6 +2,12 @@
 
 This project covers solutions of creating api endpoints for cricket match data. The API supports operations such as adding, editing, retrieving, and deleting ball-by-ball data and match statistics.
 
+**Deployed url**
+```bash
+ render: https://lifease-api-assignment-1.onrender.com
+ 
+
+
 ## Table of Contents
 
 - [Technology Stack](#technology-stack)
@@ -94,11 +100,11 @@ To set up the project locally, follow these steps:
     "isNoBall": false
    }
 
-
-  Response:  
-   201: Ball data added successfully, ball data json    
-   400: Validation errors.    
-   500: Server error.     
+ 
+   Response:  
+    201: Ball data added successfully, ball data json    
+    400: Validation errors.    
+    500: Server error.     
 
 2. **Edit Ball Data**   
 * Endpoint: /api/edit  
