@@ -2,10 +2,10 @@
 
 This project covers solutions of creating api endpoints for cricket match data. The API supports operations such as adding, editing, retrieving, and deleting ball-by-ball data and match statistics.
 
-**Deployed url**
-```bash
- render: https://lifease-api-assignment-1.onrender.com
- 
+  **Deployed url**
+     ```bash
+      render: https://lifease-api-assignment-1.onrender.com
+      postman collection: https://www.postman.com/dark-shuttle-316146/workspace/api-test/collection/29159995-981dee73-0a0e-48ba-995f-552e28346d92?action=share&creator=29159995
 
 
 ## Table of Contents
